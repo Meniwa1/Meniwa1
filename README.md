@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 	
   </div>
   <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meniwa1&&show_icons=true&theme=gruvbox)]
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meniwa1&&show_icons=true&theme=gruvbox)]
   </div>
