@@ -19,6 +19,5 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meniwa1&&show_icons=true&theme=gruvbox)]
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Meniwa1)](https://solved.ac/Meniwa1/)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Meniwa1" height="165">
